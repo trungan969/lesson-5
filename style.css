@@ -1,0 +1,32 @@
+﻿h2 {
+  text-align: center;
+  color: green;
+}
+
+.q1 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.q2 {
+  font-style: italic;
+}
+
+.q3 {
+  color: #ff0000;
+}
+
+.q4 {
+  background-color: #cccccc;
+  color: #0000cc;
+  font-family: "Arial";
+}
+
+.q5 {
+  margin-left: 30%;
+}
+
+.q6 {
+  text-align: right;
+  margin-right: 30%;
+}
